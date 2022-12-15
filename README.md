@@ -76,6 +76,8 @@ Convertir diagramas esquemáticos a mas sencillos, delta a y.
 
 4.	Video
 
+https://www.youtube.com/watch?v=AFYKrrUl2BI
+
 5.	Conclusiones 
 
 Para el desarrollo de la presenta teoría, es necesarios los conocimientos de capítulos anteriores, para poder desarrollar ejercicios por más métodos sin la necesidad de contar con corriente, voltaje y resistencia; brindados mas herramientas para el desarrollo de ejercicios.
