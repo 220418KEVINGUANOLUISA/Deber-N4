@@ -8,7 +8,7 @@ Estudiar los teoremas de Thévenin y Norton para la aplicación de ejercicios.
 
 Comprender los circuitos en superposición.
 
-Convertir diagramas esquemáticos a mas sencillos, delta a y. 
+Convertir diagramas esquemáticos a mas sencillos, y a delta y vicerversa. 
 
 2.	Marco Teórico 
 
